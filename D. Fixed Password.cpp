@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int n, i;
+	int n;
 	while (true) {
 		cin >> n;
 		if (n == 1999) {
